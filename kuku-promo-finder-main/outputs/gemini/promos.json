@@ -1,0 +1,1227 @@
+[
+  {
+    "rank": 1,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 18,
+        "start": "00:56.20",
+        "end": "01:29.50",
+        "start_s": 56.2,
+        "end_s": 89.5
+      }
+    ],
+    "duration_s": 33.3,
+    "hook": "JULIANA (Frantic, Desperate): The ledger!",
+    "cliffhanger": "SFX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.",
+    "why": "High physical peril and immediate emotional stakes create strong visual tension with a classic hero-tackle cliffhanger.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.8,
+      "standalone": 0.7,
+      "intensity": 0.693,
+      "duration": 1.0,
+      "rules": 0.843,
+      "llm": 0.76,
+      "final": 0.7932,
+      "post_priority": 0.7456
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "JULIANA (Frantic, Desperate): The ledger!",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "SFX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.",
+      "standalone_score": 8.0,
+      "cold_viewer_summary": "A woman risks her life inside a burning building to retrieve her mother's ledger while a man tries to save her from collapsing debris.",
+      "confusing_references": [],
+      "why": "High physical peril and immediate emotional stakes create strong visual tension with a classic hero-tackle cliffhanger.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] ACTION: Juliana spots the book and halts abruptly, pointing back toward the burning desk.\n[00:00.30] JULIANA (Frantic, Desperate): The ledger!\n[00:01.60] ACTION: Alexander firmly grips her arm, pulling her back toward safety.\n[00:01.80] ALEXANDER (Stern, Shouting): Leave it!\n[00:03.10] JULIANA (Hysterical, Screaming): No! No!\n[00:09.30] ACTION: Alexander points upward with urgency, pulling her under his arm.\n[00:09.60] ALEXANDER (Loud, Alarmed): Juliana, the ceiling is coming down!\n[00:11.80] ACTION: Juliana wrests her hand from his grasp and charges straight toward the burning desk.\n[00:17.30] ALEXANDER (Roaring in Terror): Juliana!\n[00:18.80] JULIANA (Defiant, Weeping): It's my mother's!\n[00:20.60] ACTION: Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.\n[00:27.80] JULIANA (Screaming, Blood-Curdling): Alexander!\n[00:30.30] ALEXANDER (Screaming Command): Down!\n[00:30.30] ACTION: Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.\n[00:31.60] SFX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks."
+  },
+  {
+    "rank": 2,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 28,
+        "start": "00:12.60",
+        "end": "00:47.40",
+        "start_s": 12.6,
+        "end_s": 47.4
+      }
+    ],
+    "duration_s": 34.8,
+    "hook": "She looks exactly like a poisoner.",
+    "cliffhanger": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "why": "Delivers instant high-stakes framing drama and cuts right at a dramatic mid-sentence medical collapse.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.9,
+      "intensity": 0.382,
+      "duration": 1.0,
+      "rules": 0.7905,
+      "llm": 0.77,
+      "final": 0.7782,
+      "post_priority": 0.6731
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "She looks exactly like a poisoner.",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "A girl accused of poisoning a duchess is defended when the victim awakens to accuse the true culprit, only to collapse mid-revelation.",
+      "confusing_references": [
+        "Rupert"
+      ],
+      "why": "Delivers instant high-stakes framing drama and cuts right at a dramatic mid-sentence medical collapse.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.10] CATHERINE (Venomous): She looks exactly like a poisoner.\n[00:02.70] JULIANA (Furious, Defiant): I did not poison her! Look at her eyes, the fever has broken!\n[00:06.30] BLOND NOBLEMAN (Sardonic, Chilling): A clever story, girl.\n[00:07.80] BLOND NOBLEMAN (Threatening): But the guards know how to extract the truth.\n[00:12.20] DOWAGER DUCHESS (Weak, Straining): Rupert...\n[00:14.10] DOWAGER DUCHESS (Commanding): Stop this!\n[00:16.20] DOWAGER DUCHESS (Desperate, Firm): She is innocent.\n[00:18.20] DOWAGER DUCHESS (Adamant): She saved me!\n[00:20.60] JULIANA (Breathless, Relieved): Your Grace...\n[00:22.40] DOWAGER DUCHESS (Trembling, Shouting): I know what happened to me!\n[00:25.60] DOWAGER DUCHESS (Fierce, Condemning): I was poisoned!\n[00:27.70] DOWAGER DUCHESS (Accusing): And you... you knew!\n[00:31.00] DOWAGER DUCHESS (Choking, Weakening): Catherine knew!\n[00:33.00] DOWAGER DUCHESS (Gasping): They have been—\n[00:34.20] ACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+  },
+  {
+    "rank": 3,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 24,
+        "start": "01:06.20",
+        "end": "01:32.00",
+        "start_s": 66.2,
+        "end_s": 92.0
+      }
+    ],
+    "duration_s": 25.8,
+    "hook": "Do you want the same punishment?",
+    "cliffhanger": "I will return. You cannot stop the healer.",
+    "why": "It opens with immediate high-stakes conflict and a threat, establishes a classic revenge dynamic, and ends on a strong, defiant promise of retribution.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.35,
+      "standalone": 0.7,
+      "intensity": 0.638,
+      "duration": 0.725,
+      "rules": 0.6838,
+      "llm": 0.81,
+      "final": 0.7595,
+      "post_priority": 0.6798
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 8.0,
+      "hook": "Do you want the same punishment?",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "I will return. You cannot stop the healer.",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "An aristocratic noblewoman severely punishes and degrades a servant, unaware that the maid is actually a resilient disguised healer plotting her revenge.",
+      "confusing_references": [
+        "Prudence",
+        "Juliana"
+      ],
+      "why": "It opens with immediate high-stakes conflict and a threat, establishes a classic revenge dynamic, and ends on a strong, defiant promise of retribution.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] PRUDENCE (Desperate, Pleading): My lady—\n[00:01.30] ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.\n[00:01.80] NOBLEWOMAN (Furious, Threatening): Do you want the same punishment?\n[00:04.40] PRUDENCE (Terrified, Murmuring): No, my lady.\n[00:06.30] ACTION: Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.\n[00:06.80] SFX: Rhythmic, harsh rasping sound of bristles scraping against stone.\n[00:08.80] NOBLEWOMAN (Smug, Gleeful): That is where clever little servants belong.\n[00:12.40] LADY JULIANA (Cold, Resolute): Let her think I am only a maid.\n[00:15.00] ACTION: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.\n[00:15.30] LADY JULIANA (Determined, Defiant): Let her believe I am ignorant.\n[00:19.00] ACTION: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.\n[00:19.40] LADY JULIANA (Steely, Unstoppable): I will return. You cannot stop the healer."
+  },
+  {
+    "rank": 4,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 15,
+        "start": "00:44.20",
+        "end": "01:26.00",
+        "start_s": 44.2,
+        "end_s": 86.0
+      }
+    ],
+    "duration_s": 41.8,
+    "hook": "THUG WITH CAP (Menacing Snarl): Get out of the way!",
+    "cliffhanger": "THUG WITH CAP (Challenging, Arrogant): What? You want to fight us, veteran?",
+    "why": "It immediately establishes a damsel-in-distress conflict and cuts right before the hero delivers justice, driving high conversion for the next episode.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.7,
+      "intensity": 0.49,
+      "duration": 1.0,
+      "rules": 0.7696,
+      "llm": 0.735,
+      "final": 0.7488,
+      "post_priority": 0.7207
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "THUG WITH CAP (Menacing Snarl): Get out of the way!",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "THUG WITH CAP (Challenging, Arrogant): What? You want to fight us, veteran?",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "Cruel thugs attack an injured woman and destroy her mother's plants until a heroic man named Alexander steps in to fight them.",
+      "confusing_references": [],
+      "why": "It immediately establishes a damsel-in-distress conflict and cuts right before the hero delivers justice, driving high conversion for the next episode.",
+      "trim_suggestion": "Trim 3 seconds from Alexander's slow approach (00:19.30–00:26.30) to tighten the mid-clip pacing.",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.60] THUG WITH CAP (Menacing Snarl): Get out of the way!\n[00:02.30] JULIANA (Steely, Fearless): No.\n[00:03.20] ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\n[00:03.60] JULIANA (Gasping Cry): Ah!\n[00:05.80] ACTION: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.\n[00:09.30] JULIANA (Broken, Sobbing): My mother's plants...\n[00:13.10] BALD THUG (Cruel, Laughing): Look at her! Crying over weeds!\n[00:15.80] JULIANA (Screaming): Stop!\n[00:15.80] ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\n[00:19.30] ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\n[00:26.30] JULIANA (Whispered Breath, Stunned): Alexander...\n[00:31.80] ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\n[00:34.80] THUG WITH CAP (Challenging, Arrogant): What? You want to fight us, veteran?\n[00:39.80] SFX: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+  },
+  {
+    "rank": 5,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 45,
+        "start": "00:51.80",
+        "end": "01:30.80",
+        "start_s": 51.8,
+        "end_s": 90.8
+      }
+    ],
+    "duration_s": 39.0,
+    "hook": "You poisoned my mother. You tortured my wife.",
+    "cliffhanger": "No one will bow yet!",
+    "why": "It works as an ad because it immediately delivers high-stakes emotional confrontation, a major status-flip reveal ('Wife?!'), and ends on a dramatic interruption that forces viewers to click the app to see who stops the wedding.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.45,
+      "standalone": 0.75,
+      "intensity": 0.262,
+      "duration": 1.0,
+      "rules": 0.6867,
+      "llm": 0.785,
+      "final": 0.7457,
+      "post_priority": 0.55
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 8.0,
+      "hook": "You poisoned my mother. You tortured my wife.",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "No one will bow yet!",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A powerful man confronts a woman who poisoned his mother and tortured his wife, then shocks everyone by revealing that a lower-status woman is actually his duchess before an interruption stops the ceremony.",
+      "confusing_references": [
+        "Catherine",
+        "Juliana Ashcroft",
+        "Rupert",
+        "Duchess of Ashburton",
+        "the Crown"
+      ],
+      "why": "It works as an ad because it immediately delivers high-stakes emotional confrontation, a major status-flip reveal ('Wife?!'), and ends on a dramatic interruption that forces viewers to click the app to see who stops the wedding.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:02.20] ALEXANDER (Furious, Cold): You poisoned my mother. You tortured my wife.\n[00:06.40] CATHERINE (Gasping, Lying): I didn't know!\n[00:08.20] ALEXANDER (Thunderous, Biting): You knew exactly what you were doing!\n[00:10.80] ALEXANDER (Booming, Condemning): You hurt the two women who mattered most to me: my mother, and my wife.\n[00:17.00] CATHERINE (Trembling, Stunned): Wife?!\n[00:19.40] ACTION: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.\n[00:19.70] ALEXANDER (Authoritative, Resounding): Before the Crown and before God...\n[00:22.80] ACTION: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.\n[00:23.00] ALEXANDER (Proclaiming, Powerful): Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\n[00:29.70] RUPERT (Gasping, Shellshocked): Juliana?!\n[00:34.70] SFX: Loud, echoing thud of cathedral doors swinging open violently.\n[00:35.70] ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\n[00:36.60] HIGH PRIEST (Booming, Stern): No one will bow yet!"
+  },
+  {
+    "rank": 6,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 7,
+        "start": "00:32.80",
+        "end": "01:14.00",
+        "start_s": 32.8,
+        "end_s": 74.0
+      }
+    ],
+    "duration_s": 41.2,
+    "hook": "Home? Look at your hands, Juliana.",
+    "cliffhanger": "Where is that beggar husband?",
+    "why": "It works because the intense class conflict and the threat against the husband create immediate emotional stakes, though it relies on standard melodrama tropes.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.8,
+      "standalone": 0.65,
+      "intensity": 0.421,
+      "duration": 1.0,
+      "rules": 0.7479,
+      "llm": 0.695,
+      "final": 0.7162,
+      "post_priority": 0.7162
+    },
+    "flags": [
+      "crosses a scene change"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Home? Look at your hands, Juliana.",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "Where is that beggar husband?",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "An aristocratic family mocks a fallen woman for choosing a poor, scarred laborer over her privileged life.",
+      "confusing_references": [
+        "Juliana",
+        "Gerald"
+      ],
+      "why": "It works because the intense class conflict and the threat against the husband create immediate emotional stakes, though it relies on standard melodrama tropes.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.40] ARISTOCRATIC WOMAN (Gloating, Mocking): Home? Look at your hands, Juliana.\n[00:05.40] ARISTOCRATIC WOMAN (Cruel): You look like a servant.\n[00:08.40] JULIANA (Proud, Resolute): I work with my hands. There is no shame in that.\n[00:12.40] GERALD (Biting, Condescending): You were born a lady.\n[00:16.00] JULIANA (Firm, Unapologetic): And I remain one.\n[00:18.70] GERALD (Bitter, Sneering): You chose that scarred beggar over a life of comfort.\n[00:25.00] JULIANA (Passionate, Defiant): I chose a man who stood beside me when you walked away.\n[00:29.00] JULIANA (Cold, Commanding): You have no authority here. Leave.\n[00:32.80] GERALD (Furious, Threatening): I have enough influence to make a beggar disappear.\n[00:35.80] GERALD (Spiteful, Boastful): And your husband?\n[00:36.70] GERALD (Snarl): Where is that beggar husband?\n[00:37.20] ACTION: The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+  },
+  {
+    "rank": 7,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 13,
+        "start": "00:24.20",
+        "end": "00:56.00",
+        "start_s": 24.2,
+        "end_s": 56.0
+      }
+    ],
+    "duration_s": 31.8,
+    "hook": "I would rather face the gallows than watch you hurt yourself for me.",
+    "cliffhanger": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+    "why": "It works as a microdrama ad because it packs high emotional stakes, physical sacrifice, and cruel villains into a tight loop, though it requires a moment to figure out the relationship dynamics.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.65,
+      "intensity": 0.552,
+      "duration": 1.0,
+      "rules": 0.7693,
+      "llm": 0.67,
+      "final": 0.7097,
+      "post_priority": 0.6937
+    },
+    "flags": [
+      "crosses a scene change"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "I would rather face the gallows than watch you hurt yourself for me.",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A devoted woman is forced to crawl through dangerous thorns to save a chained man from execution while cruel onlookers mock her.",
+      "confusing_references": [
+        "Alexander",
+        "Juliana",
+        "Clarissa",
+        "Gerald"
+      ],
+      "why": "It works as a microdrama ad because it packs high emotional stakes, physical sacrifice, and cruel villains into a tight loop, though it requires a moment to figure out the relationship dynamics.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] ALEXANDER (Desperate, Fierce): I would rather face the gallows than watch you hurt yourself for me.\n[00:06.60] JULIANA (Emotional, Devoted): You stood beside me when everyone else abandoned me. I will not abandon you now.\n[00:12.00] ACTION: Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.\n[00:12.80] CLARISSA (Mocking, Vindictive): Careful, sister.\n[00:15.70] CLARISSA (Cruel, Sarcastic): That garden has swallowed better women than you.\n[00:17.60] GERALD (Condescending, Arrogant): Perhaps the beggar's wife will finally learn what her new life is worth.\n[00:21.60] ACTION: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.\n[00:23.00] ALEXANDER (Screaming, Panicked): Juliana, stop!\n[00:23.60] SFX: Rattling of heavy iron chains.\n[00:25.80] ACTION: Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.\n[00:27.30] ALEXANDER (Strangled, Weeping): Please...\n[00:29.80] ACTION: Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.\n[00:30.30] JULIANA (Gasping in Pain): No..."
+  },
+  {
+    "rank": 8,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 29,
+        "start": "01:36.10",
+        "end": "01:56.69",
+        "start_s": 96.1,
+        "end_s": 116.69
+      }
+    ],
+    "duration_s": 20.6,
+    "hook": "I have done nothing!",
+    "cliffhanger": "SFX: A heavy iron portcullis crashes down with a massive echoing bang.",
+    "why": "It opens with immediate, high-stakes emotional hysteria that stops the scroll, and finishes with a heavy, dramatic sound effect cliffhanger, though the exact plot is initially unclear.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.8,
+      "intensity": 0.587,
+      "duration": 0.074,
+      "rules": 0.6706,
+      "llm": 0.735,
+      "final": 0.7092,
+      "post_priority": 0.6081
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 8.0,
+      "hook": "I have done nothing!",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "SFX: A heavy iron portcullis crashes down with a massive echoing bang.",
+      "standalone_score": 4.0,
+      "cold_viewer_summary": "A desperate woman imprisoned unjustly is plotting to protect someone named Alexander while losing her family's heirlooms.",
+      "confusing_references": [
+        "the Duchess",
+        "mother's ledger",
+        "her locket",
+        "Alexander"
+      ],
+      "why": "It opens with immediate, high-stakes emotional hysteria that stops the scroll, and finishes with a heavy, dramatic sound effect cliffhanger, though the exact plot is initially unclear.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:01.20] JULIANA (Desperate, Shouting): I have done nothing!\n[00:03.60] JULIANA (Screaming, Hysterical): I saved her! I healed her!\n[00:06.40] SFX: Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door.\n[00:06.50] JULIANA (Shouting in Anguish): I saved the Duchess!\n[00:10.40] JULIANA (Sorrowful, Wounded): They took my mother's ledger...\n[00:12.90] JULIANA (Quiet Resolve, Unbreakable): They took her locket. But they will not take Alexander from me.\n[00:16.70] SFX: A heavy iron portcullis crashes down with a massive echoing bang."
+  },
+  {
+    "rank": 9,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:39.00",
+        "end": "01:21.40",
+        "start_s": 39.0,
+        "end_s": 81.4
+      }
+    ],
+    "duration_s": 42.4,
+    "hook": "Because he is marrying me.",
+    "cliffhanger": "Father...",
+    "why": "It works because the betrayal by both the groom and the sister creates instant emotional outrage and a desperate need for revenge.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.362,
+      "duration": 1.0,
+      "rules": 0.7127,
+      "llm": 0.695,
+      "final": 0.7021,
+      "post_priority": 0.7021
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Because he is marrying me.",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "Father...",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "A jilted bride discovers at the altar that her own sister has stolen her groom.",
+      "confusing_references": [
+        "Lady Juliana",
+        "Lady in Gold Gown"
+      ],
+      "why": "It works because the betrayal by both the groom and the sister creates instant emotional outrage and a desperate need for revenge.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.10] LADY IN GOLD GOWN (Gloating, Smug): Because he is marrying me.\n[00:02.70] LADY JULIANA (Gasping, Devastated): No...\n[00:07.80] LADY JULIANA (Outraged, Accusing): You knew this before I walked through those doors!\n[00:13.80] LADY JULIANA (Choking on Tears): You let me come here...\n[00:15.70] LADY JULIANA (Crushed, Shaking): You let me dress in my mother's gown...\n[00:18.00] LADY JULIANA (Crying Out): You let me believe I was walking toward my husband!\n[00:21.10] THE FORMER GROOM (Cold, Callous): I changed my mind.\n[00:24.40] LADY JULIANA (Betrayed, Piercing): You swore you loved me!\n[00:27.50] LADY IN GOLD GOWN (Mocking): People change their minds, sister.\n[00:30.10] LADY JULIANA (Horrified): And you knew?\n[00:31.60] LADY IN GOLD GOWN (Unapologetic, Cheerful): Of course I knew.\n[00:34.10] LADY JULIANA (Trembling): How long?\n[00:36.00] LADY IN GOLD GOWN (Cruel, Poised): Long enough to know he was never going to marry you.\n[00:40.00] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\n[00:41.10] LADY JULIANA (Desperate): Father..."
+  },
+  {
+    "rank": 10,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 44,
+        "start": "00:46.40",
+        "end": "01:10.10",
+        "start_s": 46.4,
+        "end_s": 70.1
+      }
+    ],
+    "duration_s": 23.7,
+    "hook": "I was supposed to be your Duchess!",
+    "cliffhanger": "ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.",
+    "why": "High-stakes emotional confrontation with clear rejection creates quick melodramatic engagement, though the pacing drags slightly in the middle.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.597,
+      "duration": 0.462,
+      "rules": 0.6973,
+      "llm": 0.7,
+      "final": 0.6989,
+      "post_priority": 0.5207
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "I was supposed to be your Duchess!",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "A woman confronts a noble man over his betrayal, but he coldly denies her feelings and leaves her to join another woman at a cathedral.",
+      "confusing_references": [
+        "Juliana",
+        "all this"
+      ],
+      "why": "High-stakes emotional confrontation with clear rejection creates quick melodramatic engagement, though the pacing drags slightly in the middle.",
+      "trim_suggestion": "Trim the 3.6-second silence between [00:09.80] and [00:13.40] to keep the verbal clash fast and intense.",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.20] CATHERINE (Desperate, Demanding): I was supposed to be your Duchess!\n[00:02.80] ALEXANDER (Cold, Implacable): You were never my Duchess.\n[00:04.70] CATHERINE (Sobbing, Pleading): But I loved you!\n[00:06.60] ALEXANDER (Scornful, Biting): You loved the Duke you thought you would marry.\n[00:09.80] CATHERINE (Defiant, Pained): No!\n[00:13.40] CATHERINE (Passionate, Crying): I loved you before all this!\n[00:16.10] ALEXANDER (Skeptical, Cutting): Did you?\n[00:21.60] ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance."
+  },
+  {
+    "rank": 11,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 47,
+        "start": "01:03.50",
+        "end": "01:44.80",
+        "start_s": 63.5,
+        "end_s": 104.8
+      }
+    ],
+    "duration_s": 41.3,
+    "hook": "CATHERINE (Sobbing, Pleading): London closed its doors! My family disowned me!",
+    "cliffhanger": "CATHERINE (Outraged, Venomous): You expect me to scrub floors before these commoners?",
+    "why": "It delivers a strong power-flip trope, shifting quickly from high-stakes ejection to satisfying public humiliation.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.4,
+      "standalone": 0.65,
+      "intensity": 0.303,
+      "duration": 1.0,
+      "rules": 0.6434,
+      "llm": 0.725,
+      "final": 0.6924,
+      "post_priority": 0.5003
+    },
+    "flags": [
+      "5 speakers",
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "CATHERINE (Sobbing, Pleading): London closed its doors! My family disowned me!",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "CATHERINE (Outraged, Venomous): You expect me to scrub floors before these commoners?",
+      "standalone_score": 8.0,
+      "cold_viewer_summary": "After a disgraced woman is caught poisoning the family matriarch, her rival saves her from exile only to force her into public humiliation as a scullery maid.",
+      "confusing_references": [],
+      "why": "It delivers a strong power-flip trope, shifting quickly from high-stakes ejection to satisfying public humiliation.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] CATHERINE (Sobbing, Pleading): London closed its doors! My family disowned me!\n[00:03.70] LADY ASHBOURNE (Cold, Unforgiving): She aided the poison in my veins. Cast her into the road.\n[00:08.30] VAUGHN (Gruff, Ready): One command, Your Grace, and I drag her past the gates.\n[00:11.70] ALEXANDER (Furious, Decisive): Do it, Vaughn! Throw her past the estate perimeter!\n[00:15.30] CATHERINE (Hysterical, Screaming): Please, Alexander! Have mercy!\n[00:18.70] JULIANA (Clear, Authoritative): Stop.\n[00:20.50] ALEXANDER (Indignant, Protective): Juliana, she tried to destroy you!\n[00:23.20] JULIANA (Calm, Composed): She did.\n[00:24.70] JULIANA (Dignified, Principled): But Ashbourne does not throw beggars into the mud.\n[00:27.50] ACTION: Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.\n[00:28.00] JULIANA (Steely, Direct): If you seek shelter in this house, Catherine, you earn it.\n[00:32.50] CATHERINE (Incredulous, Stunned): You want me? As a guest?\n[00:35.70] JULIANA (Unflinching, Firm): As a scullery maid.\n[00:38.00] CATHERINE (Outraged, Venomous): You expect me to scrub floors before these commoners?"
+  },
+  {
+    "rank": 12,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "01:43.50",
+        "end": "02:32.00",
+        "start_s": 103.5,
+        "end_s": 152.0
+      }
+    ],
+    "duration_s": 48.5,
+    "hook": "Arrested?",
+    "cliffhanger": "Rupert... and Catherine's.",
+    "why": "It works as an ad because it stacks high-stakes injustices quickly—an unfair arrest, a death sentence, and a traitorous wedding—forcing the viewer to click to see the hero get his revenge.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.65,
+      "standalone": 0.7,
+      "intensity": 0.258,
+      "duration": 0.767,
+      "rules": 0.7071,
+      "llm": 0.68,
+      "final": 0.6908,
+      "post_priority": 0.5561
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Arrested?",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "Rupert... and Catherine's.",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "A man discovers his mother falsely accused his savior of poisoning her and sentenced her to execution just before the villains' wedding.",
+      "confusing_references": [
+        "Rupert",
+        "Catherine",
+        "Juliana"
+      ],
+      "why": "It works as an ad because it stacks high-stakes injustices quickly—an unfair arrest, a death sentence, and a traitorous wedding—forcing the viewer to click to see the hero get his revenge.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.50] ALEXANDER (Stunned): Arrested?\n[00:02.40] ALEXANDER'S MOTHER (Despairing): Rupert and Catherine accused her of poisoning me!\n[00:08.30] ALEXANDER (Shouting, Incredulous): But she saved you!\n[00:10.70] ALEXANDER'S MOTHER (Weeping): I told them!\n[00:14.00] ALEXANDER (Furious): You told them the truth!\n[00:16.30] ALEXANDER'S MOTHER (Agonized): They called her a witch!\n[00:20.30] ALEXANDER (Horrified): Juliana... is in a cell?\n[00:24.30] ALEXANDER'S MOTHER (Weak, Trembling): She was taken before a magistrate.\n[00:27.40] ALEXANDER (Barking): And?!\n[00:28.70] ALEXANDER'S MOTHER (Weeping): They condemned her.\n[00:31.00] ALEXANDER (Gasping): No.\n[00:32.50] ALEXANDER'S MOTHER (Solemn, Shattered): She is to be executed.\n[00:36.70] ALEXANDER (Guttural, Demanding): When?\n[00:39.70] ALEXANDER'S MOTHER (Trembling): After the wedding.\n[00:43.00] ALEXANDER (Cold, Menacing): What wedding?\n[00:45.30] ALEXANDER'S MOTHER (Grim): Rupert... and Catherine's.\n[00:47.00] SFX: A sudden dramatic metallic swell underscores the impending deadline."
+  },
+  {
+    "rank": 13,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "02:51.00",
+        "end": "03:20.75",
+        "start_s": 171.0,
+        "end_s": 200.75
+      }
+    ],
+    "duration_s": 29.8,
+    "hook": "They stole my home!",
+    "cliffhanger": "...their dead Duke is coming home.",
+    "why": "It leans hard into effective alpha-male/revenge microdrama tropes with a strong final line delivery, though the lack of visual action in the middle drags the pacing.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.55,
+      "standalone": 0.7,
+      "intensity": 0.33,
+      "duration": 1.0,
+      "rules": 0.7012,
+      "llm": 0.68,
+      "final": 0.6885,
+      "post_priority": 0.5542
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "They stole my home!",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "...their dead Duke is coming home.",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "A banished or presumed dead noble named Alexander is swearing bloody vengeance and a return home to stop a wedding after his home and a woman named Juliana were taken.",
+      "confusing_references": [
+        "Juliana",
+        "the wedding",
+        "dead Duke"
+      ],
+      "why": "It leans hard into effective alpha-male/revenge microdrama tropes with a strong final line delivery, though the lack of visual action in the middle drags the pacing.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.60] ALEXANDER (Roaring with Conviction): They stole my home!\n[00:03.20] ALEXANDER (Venomous): And now they have taken Juliana!\n[00:06.00] ACTION: Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.\n[00:06.50] SFX: The sharp, taut creak of leather straining under monstrous grip strength.\n[00:09.00] ACTION: Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.\n[00:11.00] ALEXANDER (Calm, Chilling): Two days.\n[00:13.50] ALEXANDER (Vow of Vengeance): Then they have two days to celebrate.\n[00:18.50] ALEXANDER (Low, Menacing Promise): Because before that wedding begins...\n[00:22.00] ALEXANDER (Cold, Thunderous Finale): ...their dead Duke is coming home.\n[00:26.00] ACTION: Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black.\n[00:26.00] SFX: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence."
+  },
+  {
+    "rank": 14,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 30,
+        "start": "00:33.40",
+        "end": "01:02.80",
+        "start_s": 33.4,
+        "end_s": 62.8
+      }
+    ],
+    "duration_s": 29.4,
+    "hook": "ACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.",
+    "cliffhanger": "ELDER NOBLEMAN (Ruthless): We use the law to destroy her.",
+    "why": "High-intensity physical confrontation in the first second coupled with a villainous scheme makes for strong dramatic intrigue.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.35,
+      "standalone": 0.65,
+      "intensity": 0.254,
+      "duration": 1.0,
+      "rules": 0.6376,
+      "llm": 0.71,
+      "final": 0.681,
+      "post_priority": 0.5788
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "ACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "ELDER NOBLEMAN (Ruthless): We use the law to destroy her.",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "An arrogant nobleman convinces his associates to stop hiding a female prisoner and instead use the law to execute her.",
+      "confusing_references": [
+        "she / the peasant weed / the prisoner",
+        "Catherine"
+      ],
+      "why": "High-intensity physical confrontation in the first second coupled with a villainous scheme makes for strong dramatic intrigue.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] ACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.\n[00:00.20] ELDER NOBLEMAN (Fierce, Venomous): Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\n[00:08.40] RUPERT (Faltering, Submissive): What are you suggesting?\n[00:11.40] ELDER NOBLEMAN (Calculated, Ominous): We stop hiding the prisoner.\n[00:14.60] SFX: The heavy creak of massive mahogany doors gliding open on brass hinges.\n[00:17.80] ELDER NOBLEMAN (Deadpan, Sinister): We give them a reason to condemn her.\n[00:23.60] CATHERINE (Inquiring, Sharp): You have a solution?\n[00:26.00] ELDER NOBLEMAN (Ruthless): We use the law to destroy her."
+  },
+  {
+    "rank": 15,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:14.30",
+        "end": "00:43.30",
+        "start_s": 14.3,
+        "end_s": 43.3
+      }
+    ],
+    "duration_s": 29.0,
+    "hook": "You have already taken enough from me. Leave!",
+    "cliffhanger": "Then a search will settle the matter.",
+    "why": "It establishes immediate conflict, clear power dynamics, and escalating stakes, though the initial hook relies on verbal anger rather than high-impact visual shock.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.35,
+      "standalone": 0.7,
+      "intensity": 0.572,
+      "duration": 1.0,
+      "rules": 0.6911,
+      "llm": 0.66,
+      "final": 0.6724,
+      "post_priority": 0.6674
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "You have already taken enough from me. Leave!",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "Then a search will settle the matter.",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "A hostile man accuses a poor woman's husband of theft and forces a search against her will.",
+      "confusing_references": [
+        "Alexander"
+      ],
+      "why": "It establishes immediate conflict, clear power dynamics, and escalating stakes, though the initial hook relies on verbal anger rather than high-impact visual shock.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.10] JULIANA (Furious, Defiant): You have already taken enough from me. Leave!\n[00:02.50] GERALD (Aggressive, Snarl): Your husband stole my gold pocket watch!\n[00:04.70] JULIANA (Incredulous, Gasping): What? When?\n[00:06.60] GERALD (Cold, Certain): The last time I came here.\n[00:08.70] JULIANA (Contemptuous, Outraged): You never even entered the cottage!\n[00:10.90] GERALD (Smug, Threatening): Then you should have nothing to fear from a search.\n[00:13.00] JULIANA (Adamant, Protective): Alexander would never steal from you.\n[00:15.00] GERALD (Mocking, Spiteful): Of course you would defend him. You married a beggar!\n[00:18.70] ALEXANDER (Low, Menacing): Choose your next words carefully.\n[00:20.80] GERALD (Shouting, Dramatic): You hear that? He threatens me again!\n[00:23.10] CONSTABLE (Authoritative, Stern): I have received a complaint of theft.\n[00:25.40] JULIANA (Fierce): A complaint is not proof.\n[00:27.10] CONSTABLE (Cold, Procedural): Then a search will settle the matter."
+  },
+  {
+    "rank": 16,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 16,
+        "start": "00:25.80",
+        "end": "01:03.00",
+        "start_s": 25.8,
+        "end_s": 63.0
+      }
+    ],
+    "duration_s": 37.2,
+    "hook": "Stay back!",
+    "cliffhanger": "We were only paid to destroy the garden, that's all!",
+    "why": "It works as an ad because it immediately delivers high-stakes physical action and reveals a betrayal by a named antagonist, but the emotional payoff at the end resolves too neatly instead of leaving a gripping cliffhanger.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.5,
+      "standalone": 0.6,
+      "intensity": 0.516,
+      "duration": 1.0,
+      "rules": 0.7102,
+      "llm": 0.645,
+      "final": 0.6711,
+      "post_priority": 0.6409
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 8.0,
+      "hook": "Stay back!",
+      "cliffhanger_score": 5.0,
+      "cliffhanger": "We were only paid to destroy the garden, that's all!",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A protective man violently interrogates thugs who attacked a fragile woman and destroyed her garden on orders from a man named Gerald Harrington.",
+      "confusing_references": [
+        "Alexander",
+        "Juliana",
+        "Harrington",
+        "Gerald Harrington"
+      ],
+      "why": "It works as an ad because it immediately delivers high-stakes physical action and reveals a betrayal by a named antagonist, but the emotional payoff at the end resolves too neatly instead of leaving a gripping cliffhanger.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.00] THIRD THUG (Desperate, Shouting): Stay back!\n[00:00.70] ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.\n[00:01.20] SFX: Solid bone-and-fist impact followed by a groaning thud.\n[00:06.20] JULIANA (Breathless, Overwhelmed): Alexander...\n[00:10.40] ALEXANDER (Gentle, Concerned): Are you hurt?\n[00:12.40] JULIANA (Fragile, Pain-filled): Only my hands.\n[00:15.40] ACTION: Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.\n[00:16.70] ALEXANDER (Demanding, Threatening): Who sent you?\n[00:18.40] THUG WITH CAP (Choking, Defiant): No one!\n[00:20.50] ALEXANDER (Cold, Ominous): Wrong answer.\n[00:22.20] ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.\n[00:23.00] ALEXANDER (Roaring): Who?!\n[00:24.00] THUG WITH CAP (Screaming, Panicked): Harrington! Gerald Harrington paid us!\n[00:27.40] JULIANA (Shaken, Heartbroken): Gerald...\n[00:29.70] ACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.\n[00:30.20] THUG WITH CAP (Shouting, Retreating): We were only paid to destroy the garden, that's all!\n[00:34.20] ACTION: Alexander flexes his bleeding hand, showing no sign of pain."
+  },
+  {
+    "rank": 17,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:12.20",
+        "end": "00:36.80",
+        "start_s": 12.2,
+        "end_s": 36.8
+      }
+    ],
+    "duration_s": 24.6,
+    "hook": "And who gave you permission to enter this chamber?",
+    "cliffhanger": "You are a maid.",
+    "why": "It works as an ad because it immediately establishes a high-conflict power dynamic and ends with physical abuse and a cold threat, though the stakes for the remedy vial are left unresolved.",
+    "scores": {
+      "hook": 0.75,
+      "cliffhanger": 0.7,
+      "standalone": 0.8,
+      "intensity": 0.682,
+      "duration": 0.575,
+      "rules": 0.724,
+      "llm": 0.635,
+      "final": 0.6706,
+      "post_priority": 0.6002
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "And who gave you permission to enter this chamber?",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "You are a maid.",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A strict noblewoman catches a new maid trying to help a suffering person and violently whips her for disobedience.",
+      "confusing_references": [
+        "Juliana",
+        "Her Grace"
+      ],
+      "why": "It works as an ad because it immediately establishes a high-conflict power dynamic and ends with physical abuse and a cold threat, though the stakes for the remedy vial are left unresolved.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.80] NOBLEWOMAN (Accusatory, Strict): And who gave you permission to enter this chamber?\n[00:06.60] ACTION: Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.\n[00:08.60] LADY JULIANA (Softly Defiant): I heard her. I thought Her Grace needed help.\n[00:10.30] NOBLEWOMAN (Scoffing, Cruel): You thought? A new maid thinks she knows better than the physicians?\n[00:14.80] LADY JULIANA (Emphatic, Defiant): She is suffering.\n[00:16.80] NOBLEWOMAN (Vicious, Venomous): Then let her suffer.\n[00:18.80] LADY JULIANA (Steely, Steadfast): I cannot do that.\n[00:20.30] ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\n[00:20.60] SFX: A sharp, stinging whip crack as the riding crop makes harsh contact.\n[00:21.60] ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.\n[00:22.80] NOBLEWOMAN (Cold, Threatening): You are a maid."
+  },
+  {
+    "rank": 18,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 32,
+        "start": "01:59.50",
+        "end": "02:32.00",
+        "start_s": 119.5,
+        "end_s": 152.0
+      }
+    ],
+    "duration_s": 32.5,
+    "hook": "Silence! Silence!",
+    "cliffhanger": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+    "why": "It works as an ad because it immediately establishes high-stakes conflict, a power dynamic flip through dialogue, and ends on an imminent physical threat that forces the viewer to wonder if she gets branded.",
+    "scores": {
+      "hook": 0.75,
+      "cliffhanger": 0.55,
+      "standalone": 0.6,
+      "intensity": 0.522,
+      "duration": 1.0,
+      "rules": 0.6461,
+      "llm": 0.67,
+      "final": 0.6604,
+      "post_priority": 0.5514
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Silence! Silence!",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A captive woman fiercely taunts her powerful female torturer, pushing her to the brink of branding her face.",
+      "confusing_references": [
+        "Catherine",
+        "Juliana",
+        "the title you have always wanted"
+      ],
+      "why": "It works as an ad because it immediately establishes high-stakes conflict, a power dynamic flip through dialogue, and ends on an imminent physical threat that forces the viewer to wonder if she gets branded.",
+      "trim_suggestion": "start 1s earlier right at the screaming for maximum shock value",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.10] CATHERINE (Hysterical, Screaming): Silence! Silence!\n[00:02.30] CATHERINE (Shrieking): Why?!\n[00:03.50] JULIANA (Forceful): Because I am right!\n[00:05.90] JULIANA (Scathing, Direct): You want everyone to believe you are powerful.\n[00:09.50] JULIANA (Continuing): You want everyone to fear you.\n[00:12.50] JULIANA (Mocking, Direct): But look at you.\n[00:15.50] JULIANA (Stripping Her Bare): You have to threaten a chained woman to feel powerful!\n[00:19.10] CATHERINE (Choking with Rage): You insolent—!\n[00:20.90] JULIANA (Steely, Triumphant): You may have the title you have always wanted...\n[00:22.90] JULIANA (Final, Condemning): ...but you will never have the courage to earn what you demand from everyone else.\n[00:27.10] CATHERINE (Enraged, Shouting): You think you can lecture me?!\n[00:28.50] ACTION: Catherine hoists the searing branding rod over Juliana with frantic fury.\n[00:28.60] CATHERINE (Screaming, Maniacal): Then let's see how brave you are when it touches your skin!\n[00:31.70] ACTION: Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye."
+  },
+  {
+    "rank": 19,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:04.60",
+        "end": "00:43.70",
+        "start_s": 4.6,
+        "end_s": 43.7
+      }
+    ],
+    "duration_s": 39.1,
+    "hook": "No! That watch was not in his coat!",
+    "cliffhanger": "What do you want?",
+    "why": "It establishes high emotional stakes and clear villain dynamics instantly, though starting right on the denial lacks an explosive visual hook like a slap.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.7,
+      "intensity": 0.441,
+      "duration": 1.0,
+      "rules": 0.6877,
+      "llm": 0.635,
+      "final": 0.6561,
+      "post_priority": 0.6463
+    },
+    "flags": [
+      "5 speakers"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "No! That watch was not in his coat!",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "What do you want?",
+      "standalone_score": 6.0,
+      "cold_viewer_summary": "A woman fiercely defends her impoverished husband from a framed theft accusation by her smug family members, then tries to negotiate with her manipulative sister for a way out.",
+      "confusing_references": [
+        "Juliana",
+        "Alexander",
+        "Gerald",
+        "Clarissa"
+      ],
+      "why": "It establishes high emotional stakes and clear villain dynamics instantly, though starting right on the denial lacks an explosive visual hook like a slap.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.20] ACTION: Juliana steps firmly forward, shielding Alexander with her body.\n[00:01.10] JULIANA (Furious, Defiant): No! That watch was not in his coat!\n[00:05.40] CONSTABLE (Blunt, Unyielding): I found it there myself.\n[00:07.70] JULIANA (Passionate, Accusatory): Then someone put it there!\n[00:09.70] GERALD (Smug, Condescending): The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\n[00:17.00] ALEXANDER (Low, Steady, Dangerous): I have never touched your property.\n[00:19.10] GERALD (Mocking, Malicious): Then perhaps your wife should explain why it was found in your coat.\n[00:22.20] JULIANA (Enraged, Shouting): You planted it!\n[00:22.20] ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.\n[00:23.50] CLARISSA (Purring, Taunting): Oh, dear sister...\n[00:25.40] CLARISSA (Continuing taunt): ...still defending your broken scrap of a man?\n[00:27.80] JULIANA (Steely, Resolute): Name your price, Clarissa. I know you.\n[00:30.80] CLARISSA (Smooth, Derisive): You always were clever, Juliana. Always searching for some way to escape.\n[00:35.50] CLARISSA (Scheming): Perhaps I can give you one.\n[00:37.60] JULIANA (Guarded, Cold): What do you want?"
+  },
+  {
+    "rank": 20,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 26,
+        "start": "00:55.80",
+        "end": "01:30.80",
+        "start_s": 55.8,
+        "end_s": 90.8
+      }
+    ],
+    "duration_s": 35.0,
+    "hook": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+    "cliffhanger": "SFX: A sharp, stunned gasp.",
+    "why": "It works as an ad because it features high-stakes family betrayal and a dramatic ring-reveal cliffhanger, though the first three seconds rely entirely on dialogue rather than immediate visual spectacle.",
+    "scores": {
+      "hook": 0.9,
+      "cliffhanger": 0.5,
+      "standalone": 0.9,
+      "intensity": 0.023,
+      "duration": 1.0,
+      "rules": 0.6632,
+      "llm": 0.645,
+      "final": 0.6523,
+      "post_priority": 0.574
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "SFX: A sharp, stunned gasp.",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "An old duchess realizes she is being poisoned by her family and discovers her maid has a secret noble background.",
+      "confusing_references": [
+        "Rupert",
+        "Catherine",
+        "the charcoal"
+      ],
+      "why": "It works as an ad because it features high-stakes family betrayal and a dramatic ring-reveal cliffhanger, though the first three seconds rely entirely on dialogue rather than immediate visual spectacle.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.20] DOWAGER DUCHESS (Trembling, Heartbroken): Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\n[00:06.80] JULIANA (Reassuring, Steadfast): Yes. But the charcoal is fighting the poison. You are safe now.\n[00:18.00] DOWAGER DUCHESS (Curious, Searching): Then tell me... why is a girl of such noble spirit working as a common maid?\n[00:24.20] JULIANA (Painful, Proud): Because my family cast me out to rot. I have nothing left in this world but my honor.\n[00:31.20] ACTION: Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.\n[00:34.40] SFX: A sharp, stunned gasp."
+  },
+  {
+    "rank": 21,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 3,
+        "start": "00:42.00",
+        "end": "01:04.50",
+        "start_s": 42.0,
+        "end_s": 64.5
+      }
+    ],
+    "duration_s": 22.5,
+    "hook": "Wherever a discarded daughter belongs.",
+    "cliffhanger": "Please! Someone!",
+    "why": "It works as an ad because the immediate power dynamic of cruel rejection and physical removal triggers high empathy and rage-bait, though the specific relationships require minor context.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.55,
+      "standalone": 0.9,
+      "intensity": 0.693,
+      "duration": 0.312,
+      "rules": 0.7147,
+      "llm": 0.61,
+      "final": 0.6519,
+      "post_priority": 0.6519
+    },
+    "flags": [],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "Wherever a discarded daughter belongs.",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "Please! Someone!",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "A cruel older woman is disowning and having guards forcibly throw a defiant young lady out of her mother's church.",
+      "confusing_references": [
+        "Lady Juliana",
+        "Noble Matriarch"
+      ],
+      "why": "It works as an ad because the immediate power dynamic of cruel rejection and physical removal triggers high empathy and rage-bait, though the specific relationships require minor context.",
+      "trim_suggestion": "start 1.4s later at 'Wherever a discarded daughter belongs.'",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.10] LADY JULIANA (Disbelieving): Leave where?\n[00:01.40] NOBLE MATRIARCH (Cruel, Scornful): Wherever a discarded daughter belongs.\n[00:04.40] LADY JULIANA (Fierce, Choked): This is my mother's church.\n[00:06.90] LADY JULIANA (Defiant, Firm): I have every right to stand here.\n[00:09.30] NOBLE MATRIARCH (Venomous): Not anymore.\n[00:11.30] NOBLE MATRIARCH (Stern, Final): Your father has chosen his family...\n[00:14.30] NOBLE MATRIARCH (Coldly Severing): ...and it isn't you.\n[00:16.20] ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.\n[00:16.30] NOBLE MATRIARCH (Shouting, Imperious): Guards! Remove her!\n[00:18.50] ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\n[00:18.60] LADY JULIANA (Screaming, Resisting): Let me go!\n[00:20.40] LADY JULIANA (Desperate, Begging): Please! Someone!\n[00:21.00] ACTION: The guards tear her grip away from the pew.\n[00:21.00] SFX: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+  },
+  {
+    "rank": 22,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 43,
+        "start": "00:13.50",
+        "end": "00:57.00",
+        "start_s": 13.5,
+        "end_s": 57.0
+      }
+    ],
+    "duration_s": 43.5,
+    "hook": "We will not.",
+    "cliffhanger": "No...",
+    "why": "It works as a microdrama ad because it relies on a high-stakes public exposure and swift retribution, though it requires some context to fully appreciate the betrayal.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.374,
+      "duration": 1.0,
+      "rules": 0.7144,
+      "llm": 0.61,
+      "final": 0.6518,
+      "post_priority": 0.4905
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "We will not.",
+      "cliffhanger_score": 7.0,
+      "cliffhanger": "No...",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "A disgraced or betrayed Duke proves his nobility and exposes a traitorous rival using secret military intelligence.",
+      "confusing_references": [
+        "Lord Rupert Ashburn",
+        "Lord Sterling",
+        "Duke Alexander Ashburn",
+        "Iberian front"
+      ],
+      "why": "It works as a microdrama ad because it relies on a high-stakes public exposure and swift retribution, though it requires some context to fully appreciate the betrayal.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.30] ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.\n[00:00.70] ROYAL GUARD (Firm, Defiant): We will not.\n[00:02.70] BLOND NOBLEMAN (Outraged, Stunned): I am Lord Rupert Ashburn!\n[00:04.60] BLOND NOBLEMAN (Desperate): Your Duke!\n[00:05.70] ROYAL GUARD (Calm, Resolute): No. He is your Duke.\n[00:05.70] ACTION: The Guard Captain snaps a crisp salute toward Alexander.\n[00:08.50] ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.\n[00:10.60] BLOND NOBLEMAN (Desperate, Flustered): You have all been deceived!\n[00:12.60] ALEXANDER (Cold, Authoritative): Then let the Crown decide.\n[00:14.70] ACTION: Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest.\n[00:16.50] ALEXANDER (Grave, Powerful): These were delivered to me under the seal of the Crown.\n[00:20.00] ALEXANDER (Commanding): Read the first.\n[00:21.70] ACTION: The Crown Official receives the dossier solemnly with both hands.\n[00:23.70] SFX: Crisp sound of parchment turning.\n[00:24.30] CROWN OFFICIAL (Clear, Formal): Military Intelligence Report, Iberian front, three years ago.\n[00:30.50] CROWN OFFICIAL (Solemn, Objective): Duke Alexander Ashburn's unit was ambushed after his location was compromised.\n[00:34.30] CROWN OFFICIAL (Accusing, Measured): The report identifies the leak as deliberate.\n[00:37.50] CROWN OFFICIAL (Voice Continuing): Information regarding the Duke's position was transmitted through British channels.\n[00:38.30] ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.\n[00:41.50] BLOND NOBLEMAN (Whispering, Terrified): No..."
+  },
+  {
+    "rank": 23,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 30,
+        "start": "02:05.10",
+        "end": "02:28.50",
+        "start_s": 125.1,
+        "end_s": 148.5
+      }
+    ],
+    "duration_s": 23.4,
+    "hook": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+    "cliffhanger": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+    "why": "It delivers high-stakes medieval political betrayal and an impending execution, but relies on too many unnamed character dynamics for a cold viewer.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.5,
+      "standalone": 0.65,
+      "intensity": 0.268,
+      "duration": 0.425,
+      "rules": 0.65,
+      "llm": 0.645,
+      "final": 0.647,
+      "post_priority": 0.55
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 6.0,
+      "hook": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "cliffhanger_score": 8.0,
+      "cliffhanger": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+      "standalone_score": 5.0,
+      "cold_viewer_summary": "A corrupt town council is conspiring to falsely execute a woman by framing her as a witch.",
+      "confusing_references": [
+        "Catherine",
+        "Rupert",
+        "Elder Nobleman",
+        "the witch's disgraced daughter"
+      ],
+      "why": "It delivers high-stakes medieval political betrayal and an impending execution, but relies on too many unnamed character dynamics for a cold viewer.",
+      "trim_suggestion": "",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.40] CATHERINE (Cruel, Exultant): She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.\n[00:09.00] RUPERT (Resolute, Vengeful): I will write the arrest warrant myself.\n[00:12.40] ELDER NOBLEMAN (Chilling, Decisive): Tomorrow, she stops being a prisoner. She becomes a witch.\n[00:19.40] SFX: Echoing, hollow water droplets splashing into dark pools beneath stone vaults, accompanied by a somber orchestral swell."
+  },
+  {
+    "rank": 24,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 41,
+        "start": "00:34.00",
+        "end": "01:24.50",
+        "start_s": 34.0,
+        "end_s": 84.5
+      }
+    ],
+    "duration_s": 50.5,
+    "hook": "Not as a bride this time.",
+    "cliffhanger": "SFX: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+    "why": "It suffers from a slow, confusing opening dialogue heavy with unfamiliar names, but the high-impact explosion cliffhanger effectively rescues the ad and forces a reaction.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.9,
+      "standalone": 0.6,
+      "intensity": 0.337,
+      "duration": 0.633,
+      "rules": 0.7352,
+      "llm": 0.575,
+      "final": 0.6391,
+      "post_priority": 0.4905
+    },
+    "flags": [
+      "5 speakers",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 4.0,
+      "hook": "Not as a bride this time.",
+      "cliffhanger_score": 9.0,
+      "cliffhanger": "SFX: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+      "standalone_score": 4.0,
+      "cold_viewer_summary": "A chained noblewoman is being publicly humiliated at a cathedral wedding/ceremony by her rivals before a sudden explosion interrupts them.",
+      "confusing_references": [
+        "Lady Juliana Ashcroft",
+        "Catherine",
+        "Ashburgh title"
+      ],
+      "why": "It suffers from a slow, confusing opening dialogue heavy with unfamiliar names, but the high-impact explosion cliffhanger effectively rescues the ad and forces a reaction.",
+      "trim_suggestion": "start 7s later at CATHERINE (Derisive, Projecting): Lady Juliana Ashcroft. Look around.",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [],
+    "transcript": "[00:00.80] NOBLEWOMAN (Scornful, Smug): Not as a bride this time.\n[00:07.00] CATHERINE (Derisive, Projecting): Lady Juliana Ashcroft. Look around.\n[00:11.00] CATHERINE (Mocking, Resonant): This is the world you thought you belonged to.\n[00:14.60] CATHERINE (Spiteful, Boastful): And now they can all see what you truly are.\n[00:20.80] ACTION: Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.\n[00:24.00] JULIANA (Defiant, Unbowed): You needed an entire chapel to feel powerful over one chained woman?\n[00:27.00] CATHERINE (Murmured, Cold): Still arrogant. Still standing.\n[00:30.50] CATHERINE (Dismissive): Come.\n[00:36.50] CATHERINE (Intimate, Ambitious): Soon, there will be nothing left between us and the Ashburgh title.\n[00:41.80] BLOND NOBLEMAN (Quietly Triumphant): Nothing.\n[00:44.00] PRIEST (Solemn, Polite): Shall we?\n[00:47.00] SFX: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.\n[00:47.80] ACTION: A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+  },
+  {
+    "rank": 25,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 46,
+        "start": "00:20.50",
+        "end": "00:49.00",
+        "start_s": 20.5,
+        "end_s": 49.0
+      }
+    ],
+    "duration_s": 28.5,
+    "hook": "You married this woman as a nameless beggar...",
+    "cliffhanger": "No licensed clergyman presided...",
+    "why": "Leverages a classic microdrama secret-identity trope immediately, though the clip ends on trailing legal exposition rather than a punchy reaction.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.25,
+      "standalone": 0.9,
+      "intensity": 0.171,
+      "duration": 1.0,
+      "rules": 0.6409,
+      "llm": 0.63,
+      "final": 0.6344,
+      "post_priority": 0.4631
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": {
+      "hook_score": 7.0,
+      "hook": "You married this woman as a nameless beggar...",
+      "cliffhanger_score": 5.0,
+      "cliffhanger": "No licensed clergyman presided...",
+      "standalone_score": 7.0,
+      "cold_viewer_summary": "A high priest attempts to void a marriage between a woman and her husband after the husband is revealed to secretly be a Duke.",
+      "confusing_references": [
+        "Duke of Ashburton"
+      ],
+      "why": "Leverages a classic microdrama secret-identity trope immediately, though the clip ends on trailing legal exposition rather than a punchy reaction.",
+      "trim_suggestion": "End 10s earlier at 'It never married the Duke of Ashburton to anyone.' for a stronger climax.",
+      "model": "gemini/gemini-3.5-flash,gemini-flash-lite-latest",
+      "hallucinated_quotes": []
+    },
+    "quality_issues": [
+      "weak cliffhanger"
+    ],
+    "transcript": "[00:00.10] HIGH PRIEST (Cold, Accusatory): You married this woman as a nameless beggar...\n[00:02.40] HIGH PRIEST (Scornful, Harsh): ...in a hedge ceremony no clerk in England ever recorded.\n[00:06.30] HIGH PRIEST (Resonant, Dismissive): Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\n[00:12.00] ACTION: Juliana places her hand over Alexander's as he steps forward to shield her.\n[00:13.80] ALEXANDER (Gravely, Firm): She married the man... not the title.\n[00:16.80] HIGH PRIEST (Harsh, Derisive): The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\n[00:22.30] HIGH PRIEST (Rigid, Formal): No Crown license was sought, because no one thought to ask leave for a Duke to marry.\n[00:26.60] HIGH PRIEST (Sharp): No licensed clergyman presided..."
+  }
+]
