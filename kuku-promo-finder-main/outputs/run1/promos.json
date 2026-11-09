@@ -1,0 +1,796 @@
+[
+  {
+    "rank": 1,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 18,
+        "start": "00:56.20",
+        "end": "01:29.50",
+        "start_s": 56.2,
+        "end_s": 89.5
+      }
+    ],
+    "duration_s": 33.3,
+    "hook": "JULIANA: \"The ledger!\"",
+    "cliffhanger": "ALEXANDER: \"Down!\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands; high-conflict throughout.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.8,
+      "standalone": 0.7,
+      "intensity": 0.693,
+      "duration": 1.0,
+      "rules": 0.843,
+      "post_priority": 0.7924
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.00] ACTION: Juliana spots the book and halts abruptly, pointing back toward the burning desk.\n[00:00.30] JULIANA (Frantic, Desperate): The ledger!\n[00:01.60] ACTION: Alexander firmly grips her arm, pulling her back toward safety.\n[00:01.80] ALEXANDER (Stern, Shouting): Leave it!\n[00:03.10] JULIANA (Hysterical, Screaming): No! No!\n[00:09.30] ACTION: Alexander points upward with urgency, pulling her under his arm.\n[00:09.60] ALEXANDER (Loud, Alarmed): Juliana, the ceiling is coming down!\n[00:11.80] ACTION: Juliana wrests her hand from his grasp and charges straight toward the burning desk.\n[00:17.30] ALEXANDER (Roaring in Terror): Juliana!\n[00:18.80] JULIANA (Defiant, Weeping): It's my mother's!\n[00:20.60] ACTION: Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.\n[00:27.80] JULIANA (Screaming, Blood-Curdling): Alexander!\n[00:30.30] ALEXANDER (Screaming Command): Down!\n[00:30.30] ACTION: Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.\n[00:31.60] SFX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks."
+  },
+  {
+    "rank": 2,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 28,
+        "start": "00:12.60",
+        "end": "00:47.40",
+        "start_s": 12.6,
+        "end_s": 47.4
+      }
+    ],
+    "duration_s": 34.8,
+    "hook": "JULIANA: \"I did not poison her! Look at her eyes, the fever has broken!\"",
+    "cliffhanger": "DOWAGER DUCHESS: \"They have been—\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands; stakes are clear without backstory.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.9,
+      "intensity": 0.382,
+      "duration": 1.0,
+      "rules": 0.7905,
+      "post_priority": 0.6838
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.10] CATHERINE (Venomous): She looks exactly like a poisoner.\n[00:02.70] JULIANA (Furious, Defiant): I did not poison her! Look at her eyes, the fever has broken!\n[00:06.30] BLOND NOBLEMAN (Sardonic, Chilling): A clever story, girl.\n[00:07.80] BLOND NOBLEMAN (Threatening): But the guards know how to extract the truth.\n[00:12.20] DOWAGER DUCHESS (Weak, Straining): Rupert...\n[00:14.10] DOWAGER DUCHESS (Commanding): Stop this!\n[00:16.20] DOWAGER DUCHESS (Desperate, Firm): She is innocent.\n[00:18.20] DOWAGER DUCHESS (Adamant): She saved me!\n[00:20.60] JULIANA (Breathless, Relieved): Your Grace...\n[00:22.40] DOWAGER DUCHESS (Trembling, Shouting): I know what happened to me!\n[00:25.60] DOWAGER DUCHESS (Fierce, Condemning): I was poisoned!\n[00:27.70] DOWAGER DUCHESS (Accusing): And you... you knew!\n[00:31.00] DOWAGER DUCHESS (Choking, Weakening): Catherine knew!\n[00:33.00] DOWAGER DUCHESS (Gasping): They have been—\n[00:34.20] ACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+  },
+  {
+    "rank": 3,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 15,
+        "start": "00:44.20",
+        "end": "01:26.00",
+        "start_s": 44.2,
+        "end_s": 86.0
+      }
+    ],
+    "duration_s": 41.8,
+    "hook": "THUG WITH CAP: \"Get out of the way!\"",
+    "cliffhanger": "THUG WITH CAP: \"What? You want to fight us, veteran?\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.7,
+      "intensity": 0.49,
+      "duration": 1.0,
+      "rules": 0.7696,
+      "post_priority": 0.7407
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.60] THUG WITH CAP (Menacing Snarl): Get out of the way!\n[00:02.30] JULIANA (Steely, Fearless): No.\n[00:03.20] ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\n[00:03.60] JULIANA (Gasping Cry): Ah!\n[00:05.80] ACTION: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.\n[00:09.30] JULIANA (Broken, Sobbing): My mother's plants...\n[00:13.10] BALD THUG (Cruel, Laughing): Look at her! Crying over weeds!\n[00:15.80] JULIANA (Screaming): Stop!\n[00:15.80] ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\n[00:19.30] ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\n[00:26.30] JULIANA (Whispered Breath, Stunned): Alexander...\n[00:31.80] ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\n[00:34.80] THUG WITH CAP (Challenging, Arrogant): What? You want to fight us, veteran?\n[00:39.80] SFX: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+  },
+  {
+    "rank": 4,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 13,
+        "start": "00:24.20",
+        "end": "00:56.00",
+        "start_s": 24.2,
+        "end_s": 56.0
+      }
+    ],
+    "duration_s": 31.8,
+    "hook": "ALEXANDER: \"I would rather face the gallows than watch you hurt yourself for me.\"",
+    "cliffhanger": "JULIANA: \"No...\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands; high-conflict throughout.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.65,
+      "standalone": 0.65,
+      "intensity": 0.552,
+      "duration": 1.0,
+      "rules": 0.7693,
+      "post_priority": 0.752
+    },
+    "flags": [
+      "crosses a scene change"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.00] ALEXANDER (Desperate, Fierce): I would rather face the gallows than watch you hurt yourself for me.\n[00:06.60] JULIANA (Emotional, Devoted): You stood beside me when everyone else abandoned me. I will not abandon you now.\n[00:12.00] ACTION: Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.\n[00:12.80] CLARISSA (Mocking, Vindictive): Careful, sister.\n[00:15.70] CLARISSA (Cruel, Sarcastic): That garden has swallowed better women than you.\n[00:17.60] GERALD (Condescending, Arrogant): Perhaps the beggar's wife will finally learn what her new life is worth.\n[00:21.60] ACTION: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.\n[00:23.00] ALEXANDER (Screaming, Panicked): Juliana, stop!\n[00:23.60] SFX: Rattling of heavy iron chains.\n[00:25.80] ACTION: Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.\n[00:27.30] ALEXANDER (Strangled, Weeping): Please...\n[00:29.80] ACTION: Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.\n[00:30.30] JULIANA (Gasping in Pain): No..."
+  },
+  {
+    "rank": 5,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 7,
+        "start": "00:32.80",
+        "end": "01:14.00",
+        "start_s": 32.8,
+        "end_s": 74.0
+      }
+    ],
+    "duration_s": 41.2,
+    "hook": "ARISTOCRATIC WOMAN: \"Home? Look at your hands, Juliana.\"",
+    "cliffhanger": "GERALD: \"Where is that beggar husband?\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.8,
+      "standalone": 0.65,
+      "intensity": 0.421,
+      "duration": 1.0,
+      "rules": 0.7479,
+      "post_priority": 0.7479
+    },
+    "flags": [
+      "crosses a scene change"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.40] ARISTOCRATIC WOMAN (Gloating, Mocking): Home? Look at your hands, Juliana.\n[00:05.40] ARISTOCRATIC WOMAN (Cruel): You look like a servant.\n[00:08.40] JULIANA (Proud, Resolute): I work with my hands. There is no shame in that.\n[00:12.40] GERALD (Biting, Condescending): You were born a lady.\n[00:16.00] JULIANA (Firm, Unapologetic): And I remain one.\n[00:18.70] GERALD (Bitter, Sneering): You chose that scarred beggar over a life of comfort.\n[00:25.00] JULIANA (Passionate, Defiant): I chose a man who stood beside me when you walked away.\n[00:29.00] JULIANA (Cold, Commanding): You have no authority here. Leave.\n[00:32.80] GERALD (Furious, Threatening): I have enough influence to make a beggar disappear.\n[00:35.80] GERALD (Spiteful, Boastful): And your husband?\n[00:36.70] GERALD (Snarl): Where is that beggar husband?\n[00:37.20] ACTION: The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+  },
+  {
+    "rank": 6,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 41,
+        "start": "00:34.00",
+        "end": "01:24.50",
+        "start_s": 34.0,
+        "end_s": 84.5
+      }
+    ],
+    "duration_s": 50.5,
+    "hook": "NOBLEWOMAN: \"Not as a bride this time.\"",
+    "cliffhanger": "PRIEST: \"Shall we?\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.9,
+      "standalone": 0.6,
+      "intensity": 0.337,
+      "duration": 0.633,
+      "rules": 0.7352,
+      "post_priority": 0.5643
+    },
+    "flags": [
+      "5 speakers",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.80] NOBLEWOMAN (Scornful, Smug): Not as a bride this time.\n[00:07.00] CATHERINE (Derisive, Projecting): Lady Juliana Ashcroft. Look around.\n[00:11.00] CATHERINE (Mocking, Resonant): This is the world you thought you belonged to.\n[00:14.60] CATHERINE (Spiteful, Boastful): And now they can all see what you truly are.\n[00:20.80] ACTION: Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.\n[00:24.00] JULIANA (Defiant, Unbowed): You needed an entire chapel to feel powerful over one chained woman?\n[00:27.00] CATHERINE (Murmured, Cold): Still arrogant. Still standing.\n[00:30.50] CATHERINE (Dismissive): Come.\n[00:36.50] CATHERINE (Intimate, Ambitious): Soon, there will be nothing left between us and the Ashburgh title.\n[00:41.80] BLOND NOBLEMAN (Quietly Triumphant): Nothing.\n[00:44.00] PRIEST (Solemn, Polite): Shall we?\n[00:47.00] SFX: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.\n[00:47.80] ACTION: A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+  },
+  {
+    "rank": 7,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 28,
+        "start": "00:47.40",
+        "end": "01:15.30",
+        "start_s": 47.4,
+        "end_s": 75.3
+      }
+    ],
+    "duration_s": 27.9,
+    "hook": "JULIANA: \"Let me help her!\"",
+    "cliffhanger": "CATHERINE: \"Where did a gutter rat like you find a silver locket?\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.55,
+      "standalone": 0.7,
+      "intensity": 0.437,
+      "duration": 0.987,
+      "rules": 0.7314,
+      "post_priority": 0.6327
+    },
+    "flags": [
+      "opens by referring to earlier events",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.80] JULIANA (Panicked, Screaming): Let me help her!\n[00:02.10] JULIANA (Desperate): She's still weak, you cannot leave her like this!\n[00:05.40] BLOND NOBLEMAN (Smooth, Feigning Concern): You see?\n[00:06.60] BLOND NOBLEMAN (Sinister): The poison has clearly damaged her mind.\n[00:09.60] DOWAGER DUCHESS (Hoarse, Straining): I am not delusional!\n[00:11.20] BLOND NOBLEMAN (Condescending, Whispering): Of course you are not.\n[00:12.70] BLOND NOBLEMAN (Dismissive): You are merely confused.\n[00:14.20] CATHERINE (Amused, Mocking): How convenient that the only person who can prove the poison exists...\n[00:17.50] CATHERINE (Smug): ...is the maid who claims to have discovered it.\n[00:19.80] BLOND NOBLEMAN (Commanding, Resolute): Take her away before she poisons the rest of this house.\n[00:23.40] ACTION: Catherine ruthlessly yanks the silver locket off Juliana's neck.\n[00:23.80] JULIANA (Crying Out): No!\n[00:24.80] CATHERINE (Insolent, Sneering): Where did a gutter rat like you find a silver locket?"
+  },
+  {
+    "rank": 8,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:43.30",
+        "end": "01:32.00",
+        "start_s": 43.3,
+        "end_s": 92.0
+      }
+    ],
+    "duration_s": 48.7,
+    "hook": "JULIANA: \"You cannot simply invade our home because this man makes an accusation!\"",
+    "cliffhanger": "ALEXANDER: \"But one blow would destroy her life.\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.6,
+      "standalone": 0.65,
+      "intensity": 0.471,
+      "duration": 0.753,
+      "rules": 0.7281,
+      "post_priority": 0.7226
+    },
+    "flags": [
+      "crosses a scene change"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.20] JULIANA (Desperate, Shouting): You cannot simply invade our home because this man makes an accusation!\n[00:03.50] GERALD (Taunting): If he has nothing to hide...\n[00:05.10] GERALD (Smug): ...let the constable search.\n[00:06.80] ALEXANDER (Dark, Grated): Search it.\n[00:09.50] ALEXANDER (Resigned, Calm): Let them.\n[00:11.20] SFX: Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.\n[00:12.70] ACTION: The Constable begins violently overturning crates and dumping contents across the floor.\n[00:14.70] JULIANA (Distressed, Pleading): Stop! Those are my mother's medicines!\n[00:16.70] ACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.\n[00:18.50] JULIANA (Crying, Desperate): Please! There is nothing here!\n[00:20.60] CONSTABLE (Cold, Indifferent): Then you have nothing to fear.\n[00:22.70] JULIANA (Heartbroken, Sobbing): Those are all I have left!\n[00:24.20] GERALD (Cruel, Condescending): Stand aside. Look at this place. A perfect hiding hole for a thief.\n[00:28.80] JULIANA (Furious, Accusatory): You planted this accusation because you cannot bear that I am happy without you!\n[00:32.20] GERALD (Scoffing, Sinister): Happy?\n[00:38.00] GERALD (Provoking, Smirking): What is it, soldier? Going to strike a gentleman in front of his wife?\n[00:40.90] JULIANA (Whispering, Terrified): Don't!\n[00:42.70] ALEXANDER (Haunted, Resolute): One blow would end this.\n[00:44.70] ALEXANDER (Pained, Selfless): But one blow would destroy her life.\n[00:47.70] ACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+  },
+  {
+    "rank": 9,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:12.20",
+        "end": "00:36.80",
+        "start_s": 12.2,
+        "end_s": 36.8
+      }
+    ],
+    "duration_s": 24.6,
+    "hook": "NOBLEWOMAN: \"And who gave you permission to enter this chamber?\"",
+    "cliffhanger": "NOBLEWOMAN: \"You are a maid.\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands; high-conflict throughout.",
+    "scores": {
+      "hook": 0.75,
+      "cliffhanger": 0.7,
+      "standalone": 0.8,
+      "intensity": 0.682,
+      "duration": 0.575,
+      "rules": 0.724,
+      "post_priority": 0.648
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.80] NOBLEWOMAN (Accusatory, Strict): And who gave you permission to enter this chamber?\n[00:06.60] ACTION: Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.\n[00:08.60] LADY JULIANA (Softly Defiant): I heard her. I thought Her Grace needed help.\n[00:10.30] NOBLEWOMAN (Scoffing, Cruel): You thought? A new maid thinks she knows better than the physicians?\n[00:14.80] LADY JULIANA (Emphatic, Defiant): She is suffering.\n[00:16.80] NOBLEWOMAN (Vicious, Venomous): Then let her suffer.\n[00:18.80] LADY JULIANA (Steely, Steadfast): I cannot do that.\n[00:20.30] ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\n[00:20.60] SFX: A sharp, stinging whip crack as the riding crop makes harsh contact.\n[00:21.60] ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.\n[00:22.80] NOBLEWOMAN (Cold, Threatening): You are a maid."
+  },
+  {
+    "rank": 10,
+    "type": "flash-forward",
+    "segments": [
+      {
+        "episode": 5,
+        "start": "00:54.00",
+        "end": "00:57.80",
+        "start_s": 54.0,
+        "end_s": 57.8
+      },
+      {
+        "episode": 5,
+        "start": "00:25.00",
+        "end": "00:54.00",
+        "start_s": 25.0,
+        "end_s": 54.0
+      }
+    ],
+    "duration_s": 32.8,
+    "hook": "JULIANA: \"Barbara, don't!\"",
+    "cliffhanger": "LADY ASHCROFT: \"Then you should have guarded it better.\"",
+    "why": "Teases the climax first, then rewinds to the setup; opens on an immediate confrontation; stakes are clear without backstory.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.45,
+      "standalone": 0.9,
+      "intensity": 0.271,
+      "duration": 1.0,
+      "rules": 0.7149,
+      "post_priority": 0.7149
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "--- segment: episode 5 00:54.00-00:57.80 ---\n[00:00.50] ACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\n[00:01.50] JULIANA (Screaming, Desperate): Barbara, don't!\n[00:03.00] SFX: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\n--- segment: episode 5 00:25.00-00:54.00 ---\n[00:04.20] LORD ASHCROFT (O.S. / Continues): From this moment, you are dead to the Ashcroft family.\n[00:08.30] JULIANA (Shaking, Tearful): You truly mean it? You are my father!\n[00:12.60] LORD ASHCROFT: And you have chosen to become a stranger.\n[00:16.40] JULIANA (Quietly Resolute): No, Father. You chose that long before today.\n[00:21.30] LADY ASHCROFT (Sharply Dismissive): Enough sentiment.\n[00:23.10] LADY ASHCROFT (Cold, Demanding): And the ledger...\n[00:25.60] LADY ASHCROFT (Venomous): ...that belongs to this family.\n[00:27.80] JULIANA (Alarmed, Protective): It belonged to my mother! It is all I have left of her.\n[00:30.80] LADY ASHCROFT (Cruel): Then you should have guarded it better."
+  },
+  {
+    "rank": 11,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 3,
+        "start": "00:42.00",
+        "end": "01:04.50",
+        "start_s": 42.0,
+        "end_s": 64.5
+      }
+    ],
+    "duration_s": 22.5,
+    "hook": "NOBLE MATRIARCH: \"Wherever a discarded daughter belongs.\"",
+    "cliffhanger": "LADY JULIANA: \"Please! Someone!\"",
+    "why": "Opens on an immediate confrontation; high-conflict throughout; stakes are clear without backstory.",
+    "scores": {
+      "hook": 0.85,
+      "cliffhanger": 0.55,
+      "standalone": 0.9,
+      "intensity": 0.693,
+      "duration": 0.312,
+      "rules": 0.7147,
+      "post_priority": 0.7147
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.10] LADY JULIANA (Disbelieving): Leave where?\n[00:01.40] NOBLE MATRIARCH (Cruel, Scornful): Wherever a discarded daughter belongs.\n[00:04.40] LADY JULIANA (Fierce, Choked): This is my mother's church.\n[00:06.90] LADY JULIANA (Defiant, Firm): I have every right to stand here.\n[00:09.30] NOBLE MATRIARCH (Venomous): Not anymore.\n[00:11.30] NOBLE MATRIARCH (Stern, Final): Your father has chosen his family...\n[00:14.30] NOBLE MATRIARCH (Coldly Severing): ...and it isn't you.\n[00:16.20] ACTION: The Noble Matriarch turns sharply toward the back of the chapel and barks an order.\n[00:16.30] NOBLE MATRIARCH (Shouting, Imperious): Guards! Remove her!\n[00:18.50] ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\n[00:18.60] LADY JULIANA (Screaming, Resisting): Let me go!\n[00:20.40] LADY JULIANA (Desperate, Begging): Please! Someone!\n[00:21.00] ACTION: The guards tear her grip away from the pew.\n[00:21.00] SFX: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+  },
+  {
+    "rank": 12,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 43,
+        "start": "00:13.50",
+        "end": "00:57.00",
+        "start_s": 13.5,
+        "end_s": 57.0
+      }
+    ],
+    "duration_s": 43.5,
+    "hook": "BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\"",
+    "cliffhanger": "BLOND NOBLEMAN: \"No...\"",
+    "why": "Opens on an immediate confrontation; stakes are clear without backstory.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.374,
+      "duration": 1.0,
+      "rules": 0.7144,
+      "post_priority": 0.5376
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.30] ACTION: The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.\n[00:00.70] ROYAL GUARD (Firm, Defiant): We will not.\n[00:02.70] BLOND NOBLEMAN (Outraged, Stunned): I am Lord Rupert Ashburn!\n[00:04.60] BLOND NOBLEMAN (Desperate): Your Duke!\n[00:05.70] ROYAL GUARD (Calm, Resolute): No. He is your Duke.\n[00:05.70] ACTION: The Guard Captain snaps a crisp salute toward Alexander.\n[00:08.50] ACTION: Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church.\n[00:10.60] BLOND NOBLEMAN (Desperate, Flustered): You have all been deceived!\n[00:12.60] ALEXANDER (Cold, Authoritative): Then let the Crown decide.\n[00:14.70] ACTION: Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest.\n[00:16.50] ALEXANDER (Grave, Powerful): These were delivered to me under the seal of the Crown.\n[00:20.00] ALEXANDER (Commanding): Read the first.\n[00:21.70] ACTION: The Crown Official receives the dossier solemnly with both hands.\n[00:23.70] SFX: Crisp sound of parchment turning.\n[00:24.30] CROWN OFFICIAL (Clear, Formal): Military Intelligence Report, Iberian front, three years ago.\n[00:30.50] CROWN OFFICIAL (Solemn, Objective): Duke Alexander Ashburn's unit was ambushed after his location was compromised.\n[00:34.30] CROWN OFFICIAL (Accusing, Measured): The report identifies the leak as deliberate.\n[00:37.50] CROWN OFFICIAL (Voice Continuing): Information regarding the Duke's position was transmitted through British channels.\n[00:38.30] ACTION: Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade.\n[00:41.50] BLOND NOBLEMAN (Whispering, Terrified): No..."
+  },
+  {
+    "rank": 13,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:39.00",
+        "end": "01:21.40",
+        "start_s": 39.0,
+        "end_s": 81.4
+      }
+    ],
+    "duration_s": 42.4,
+    "hook": "LADY IN GOLD GOWN: \"Because he is marrying me.\"",
+    "cliffhanger": "LADY JULIANA: \"Father...\"",
+    "why": "Opens on an immediate confrontation; stakes are clear without backstory.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.362,
+      "duration": 1.0,
+      "rules": 0.7127,
+      "post_priority": 0.7127
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.10] LADY IN GOLD GOWN (Gloating, Smug): Because he is marrying me.\n[00:02.70] LADY JULIANA (Gasping, Devastated): No...\n[00:07.80] LADY JULIANA (Outraged, Accusing): You knew this before I walked through those doors!\n[00:13.80] LADY JULIANA (Choking on Tears): You let me come here...\n[00:15.70] LADY JULIANA (Crushed, Shaking): You let me dress in my mother's gown...\n[00:18.00] LADY JULIANA (Crying Out): You let me believe I was walking toward my husband!\n[00:21.10] THE FORMER GROOM (Cold, Callous): I changed my mind.\n[00:24.40] LADY JULIANA (Betrayed, Piercing): You swore you loved me!\n[00:27.50] LADY IN GOLD GOWN (Mocking): People change their minds, sister.\n[00:30.10] LADY JULIANA (Horrified): And you knew?\n[00:31.60] LADY IN GOLD GOWN (Unapologetic, Cheerful): Of course I knew.\n[00:34.10] LADY JULIANA (Trembling): How long?\n[00:36.00] LADY IN GOLD GOWN (Cruel, Poised): Long enough to know he was never going to marry you.\n[00:40.00] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\n[00:41.10] LADY JULIANA (Desperate): Father..."
+  },
+  {
+    "rank": 14,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 16,
+        "start": "00:25.80",
+        "end": "01:03.00",
+        "start_s": 25.8,
+        "end_s": 63.0
+      }
+    ],
+    "duration_s": 37.2,
+    "hook": "THIRD THUG: \"Stay back!\"",
+    "cliffhanger": "THUG WITH CAP: \"We were only paid to destroy the garden, that's all!\"",
+    "why": "Opens on an immediate confrontation; high-conflict throughout.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.5,
+      "standalone": 0.6,
+      "intensity": 0.516,
+      "duration": 1.0,
+      "rules": 0.7102,
+      "post_priority": 0.6782
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.00] THIRD THUG (Desperate, Shouting): Stay back!\n[00:00.70] ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.\n[00:01.20] SFX: Solid bone-and-fist impact followed by a groaning thud.\n[00:06.20] JULIANA (Breathless, Overwhelmed): Alexander...\n[00:10.40] ALEXANDER (Gentle, Concerned): Are you hurt?\n[00:12.40] JULIANA (Fragile, Pain-filled): Only my hands.\n[00:15.40] ACTION: Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.\n[00:16.70] ALEXANDER (Demanding, Threatening): Who sent you?\n[00:18.40] THUG WITH CAP (Choking, Defiant): No one!\n[00:20.50] ALEXANDER (Cold, Ominous): Wrong answer.\n[00:22.20] ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.\n[00:23.00] ALEXANDER (Roaring): Who?!\n[00:24.00] THUG WITH CAP (Screaming, Panicked): Harrington! Gerald Harrington paid us!\n[00:27.40] JULIANA (Shaken, Heartbroken): Gerald...\n[00:29.70] ACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.\n[00:30.20] THUG WITH CAP (Shouting, Retreating): We were only paid to destroy the garden, that's all!\n[00:34.20] ACTION: Alexander flexes his bleeding hand, showing no sign of pain."
+  },
+  {
+    "rank": 15,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 37,
+        "start": "01:02.00",
+        "end": "01:32.00",
+        "start_s": 62.0,
+        "end_s": 92.0
+      }
+    ],
+    "duration_s": 30.0,
+    "hook": "LADY CLARISSA: \"They want the families to witness it.\"",
+    "cliffhanger": "LADY CLARISSA: \"Juliana's ruin will be a lesson. And we will be there to watch.\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.6,
+      "standalone": 0.55,
+      "intensity": 0.353,
+      "duration": 1.0,
+      "rules": 0.7084,
+      "post_priority": 0.5649
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.80] LADY CLARISSA (Gloating, Mocking): They want the families to witness it.\n[00:04.50] NOBLEMAN (Fascinated): A public execution after a wedding.\n[00:07.50] LADY CLARISSA (Chilling, Sharp): Not just an execution. A warning.\n[00:11.00] NOBLEMAN (Curious): To whom?\n[00:15.00] LADY CLARISSA (Contemptuous, Scornful): To every woman who thinks she can rise above the place she was given.\n[00:21.00] LADY CLARISSA (Smug Triumph): Juliana's ruin will be a lesson. And we will be there to watch.\n[00:26.50] SFX: Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mournful ambient drone."
+  },
+  {
+    "rank": 16,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "01:43.50",
+        "end": "02:32.00",
+        "start_s": 103.5,
+        "end_s": 152.0
+      }
+    ],
+    "duration_s": 48.5,
+    "hook": "ALEXANDER: \"Arrested?\"",
+    "cliffhanger": "ALEXANDER'S MOTHER: \"Rupert... and Catherine's.\"",
+    "why": "Opens on an immediate confrontation; cuts before the outcome lands.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.65,
+      "standalone": 0.7,
+      "intensity": 0.258,
+      "duration": 0.767,
+      "rules": 0.7071,
+      "post_priority": 0.5692
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.50] ALEXANDER (Stunned): Arrested?\n[00:02.40] ALEXANDER'S MOTHER (Despairing): Rupert and Catherine accused her of poisoning me!\n[00:08.30] ALEXANDER (Shouting, Incredulous): But she saved you!\n[00:10.70] ALEXANDER'S MOTHER (Weeping): I told them!\n[00:14.00] ALEXANDER (Furious): You told them the truth!\n[00:16.30] ALEXANDER'S MOTHER (Agonized): They called her a witch!\n[00:20.30] ALEXANDER (Horrified): Juliana... is in a cell?\n[00:24.30] ALEXANDER'S MOTHER (Weak, Trembling): She was taken before a magistrate.\n[00:27.40] ALEXANDER (Barking): And?!\n[00:28.70] ALEXANDER'S MOTHER (Weeping): They condemned her.\n[00:31.00] ALEXANDER (Gasping): No.\n[00:32.50] ALEXANDER'S MOTHER (Solemn, Shattered): She is to be executed.\n[00:36.70] ALEXANDER (Guttural, Demanding): When?\n[00:39.70] ALEXANDER'S MOTHER (Trembling): After the wedding.\n[00:43.00] ALEXANDER (Cold, Menacing): What wedding?\n[00:45.30] ALEXANDER'S MOTHER (Grim): Rupert... and Catherine's.\n[00:47.00] SFX: A sudden dramatic metallic swell underscores the impending deadline."
+  },
+  {
+    "rank": 17,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "02:51.00",
+        "end": "03:20.75",
+        "start_s": 171.0,
+        "end_s": 200.75
+      }
+    ],
+    "duration_s": 29.8,
+    "hook": "ALEXANDER: \"They stole my home!\"",
+    "cliffhanger": "ALEXANDER: \"...their dead Duke is coming home.\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.55,
+      "standalone": 0.7,
+      "intensity": 0.33,
+      "duration": 1.0,
+      "rules": 0.7012,
+      "post_priority": 0.5645
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.60] ALEXANDER (Roaring with Conviction): They stole my home!\n[00:03.20] ALEXANDER (Venomous): And now they have taken Juliana!\n[00:06.00] ACTION: Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.\n[00:06.50] SFX: The sharp, taut creak of leather straining under monstrous grip strength.\n[00:09.00] ACTION: Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.\n[00:11.00] ALEXANDER (Calm, Chilling): Two days.\n[00:13.50] ALEXANDER (Vow of Vengeance): Then they have two days to celebrate.\n[00:18.50] ALEXANDER (Low, Menacing Promise): Because before that wedding begins...\n[00:22.00] ALEXANDER (Cold, Thunderous Finale): ...their dead Duke is coming home.\n[00:26.00] ACTION: Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black.\n[00:26.00] SFX: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence."
+  },
+  {
+    "rank": 18,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 44,
+        "start": "00:46.40",
+        "end": "01:10.10",
+        "start_s": 46.4,
+        "end_s": 70.1
+      }
+    ],
+    "duration_s": 23.7,
+    "hook": "CATHERINE: \"I was supposed to be your Duchess!\"",
+    "cliffhanger": "ALEXANDER: \"Did you?\"",
+    "why": "Opens on an immediate confrontation; high-conflict throughout; stakes are clear without backstory.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.597,
+      "duration": 0.462,
+      "rules": 0.6973,
+      "post_priority": 0.5195
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.20] CATHERINE (Desperate, Demanding): I was supposed to be your Duchess!\n[00:02.80] ALEXANDER (Cold, Implacable): You were never my Duchess.\n[00:04.70] CATHERINE (Sobbing, Pleading): But I loved you!\n[00:06.60] ALEXANDER (Scornful, Biting): You loved the Duke you thought you would marry.\n[00:09.80] CATHERINE (Defiant, Pained): No!\n[00:13.40] CATHERINE (Passionate, Crying): I loved you before all this!\n[00:16.10] ALEXANDER (Skeptical, Cutting): Did you?\n[00:21.60] ACTION: Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance."
+  },
+  {
+    "rank": 19,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 29,
+        "start": "00:56.60",
+        "end": "01:36.10",
+        "start_s": 56.6,
+        "end_s": 96.1
+      }
+    ],
+    "duration_s": 39.5,
+    "hook": "JULIANA: \"You are doing this because I saved the Duchess!\"",
+    "cliffhanger": "JULIANA: \"Mother...\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.75,
+      "intensity": 0.44,
+      "duration": 1.0,
+      "rules": 0.6966,
+      "post_priority": 0.5973
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.10] JULIANA (Enraged, Defiant): You are doing this because I saved the Duchess!\n[00:02.70] CATHERINE (Scornful, Arrogant): I am doing this because women like you forget their place.\n[00:07.90] CATHERINE (Cold, Venomous): You were cast out once.\n[00:10.60] CATHERINE (Menacing): You should have stayed forgotten.\n[00:13.20] JULIANA (Steely, Resolute): My husband will find me.\n[00:15.50] CATHERINE (Scoffing, Amused): Your scarred soldier?\n[00:18.10] CATHERINE (Derisive, Biting): What exactly do you think a penniless veteran can do against Ashbrook?\n[00:22.10] GUARD (Gruff, Dismissive): Move along, girl.\n[00:27.40] ACTION: The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.\n[00:29.10] JULIANA (Crying Out, Broken): Please!\n[00:29.90] SFX: The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.\n[00:32.90] ACTION: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.\n[00:37.60] JULIANA (Sobbing, Heartbroken): Mother..."
+  },
+  {
+    "rank": 20,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 43,
+        "start": "01:11.20",
+        "end": "01:49.80",
+        "start_s": 71.2,
+        "end_s": 109.8
+      }
+    ],
+    "duration_s": 38.6,
+    "hook": "ALEXANDER: \"And when you believed I was dead...\"",
+    "cliffhanger": "CATHERINE: \"My Lord?\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.7,
+      "intensity": 0.482,
+      "duration": 1.0,
+      "rules": 0.6935,
+      "post_priority": 0.5219
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.20] BLOND NOBLEMAN (Desperate, Denying): I didn't!\n[00:01.60] ALEXANDER (Resonant, Accusatory): And when you believed I was dead...\n[00:04.90] ALEXANDER (Venomous): You took my title.\n[00:06.80] SFX: Brittle snap of breaking sealing wax.\n[00:10.30] CROWN OFFICIAL (Grave, Official): Official death confirmation was filed three months after the ambush.\n[00:14.80] CROWN OFFICIAL (Continuing): Duke Alexander Ashburn was declared dead.\n[00:17.40] CROWN OFFICIAL (Loud, Authoritative): His estate and title were subsequently transferred under false authority.\n[00:22.20] BLOND NOBLEMAN (Screaming, Desperate): I was told he was dead!\n[00:25.60] ALEXANDER (Cold, Penetrating): You were told exactly what you needed to hear.\n[00:28.80] BLOND NOBLEMAN (Frantic, Betraying): Sterling handled the report!\n[00:33.60] CATHERINE (Shocked, Murmuring): My Lord?\n[00:35.80] SFX: Heavy iron latch clicking open and wooden door creaking."
+  },
+  {
+    "rank": 21,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:14.30",
+        "end": "00:43.30",
+        "start_s": 14.3,
+        "end_s": 43.3
+      }
+    ],
+    "duration_s": 29.0,
+    "hook": "GERALD: \"Your husband stole my gold pocket watch!\"",
+    "cliffhanger": "CONSTABLE: \"Then a search will settle the matter.\"",
+    "why": "Opens on an immediate confrontation; high-conflict throughout.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.35,
+      "standalone": 0.7,
+      "intensity": 0.572,
+      "duration": 1.0,
+      "rules": 0.6911,
+      "post_priority": 0.6859
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.10] JULIANA (Furious, Defiant): You have already taken enough from me. Leave!\n[00:02.50] GERALD (Aggressive, Snarl): Your husband stole my gold pocket watch!\n[00:04.70] JULIANA (Incredulous, Gasping): What? When?\n[00:06.60] GERALD (Cold, Certain): The last time I came here.\n[00:08.70] JULIANA (Contemptuous, Outraged): You never even entered the cottage!\n[00:10.90] GERALD (Smug, Threatening): Then you should have nothing to fear from a search.\n[00:13.00] JULIANA (Adamant, Protective): Alexander would never steal from you.\n[00:15.00] GERALD (Mocking, Spiteful): Of course you would defend him. You married a beggar!\n[00:18.70] ALEXANDER (Low, Menacing): Choose your next words carefully.\n[00:20.80] GERALD (Shouting, Dramatic): You hear that? He threatens me again!\n[00:23.10] CONSTABLE (Authoritative, Stern): I have received a complaint of theft.\n[00:25.40] JULIANA (Fierce): A complaint is not proof.\n[00:27.10] CONSTABLE (Cold, Procedural): Then a search will settle the matter."
+  },
+  {
+    "rank": 22,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 27,
+        "start": "00:44.20",
+        "end": "01:20.80",
+        "start_s": 44.2,
+        "end_s": 80.8
+      }
+    ],
+    "duration_s": 36.6,
+    "hook": "DOWAGER DUCHESS: \"What is your husband's name?\"",
+    "cliffhanger": "LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\"",
+    "why": "Opens on an immediate confrontation; stakes are clear without backstory.",
+    "scores": {
+      "hook": 0.95,
+      "cliffhanger": 0.4,
+      "standalone": 0.9,
+      "intensity": 0.311,
+      "duration": 1.0,
+      "rules": 0.6895,
+      "post_priority": 0.6016
+    },
+    "flags": [
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.30] DOWAGER DUCHESS (Hushed, Desperate): What is your husband's name?\n[00:02.20] SFX: Loud, violent pounding echoes on the wooden double doors.\n[00:04.60] ACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.\n[00:08.00] LADY CATHERINE (Sharp, Accusatory): What is that maid doing in Her Grace's private chamber?\n[00:12.60] JULIANA (Calm, Defiant): She needed help.\n[00:15.80] LADY CATHERINE (Piercing, Suspicious): What are you hiding?\n[00:18.00] JULIANA (Firm): Nothing.\n[00:20.60] LADY CATHERINE (Demanding, Harsh): Show me your hand.\n[00:22.40] BLOND NOBLEMAN (Cold, Authoritative): Girl. Show me what you are holding.\n[00:28.40] BLOND NOBLEMAN (Skeptical): What is this?\n[00:29.60] JULIANA (Steady): Medicine.\n[00:31.00] LADY CATHERINE (Mocking, Condescending): Medicine? You are a new maid.\n[00:33.90] LADY CATHERINE (Incredulous, Accusing): Who permitted you to give medicine to the Duchess?"
+  },
+  {
+    "rank": 23,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:04.60",
+        "end": "00:43.70",
+        "start_s": 4.6,
+        "end_s": 43.7
+      }
+    ],
+    "duration_s": 39.1,
+    "hook": "JULIANA: \"No! That watch was not in his coat!\"",
+    "cliffhanger": "JULIANA: \"What do you want?\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.4,
+      "standalone": 0.7,
+      "intensity": 0.441,
+      "duration": 1.0,
+      "rules": 0.6877,
+      "post_priority": 0.6774
+    },
+    "flags": [
+      "5 speakers"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.20] ACTION: Juliana steps firmly forward, shielding Alexander with her body.\n[00:01.10] JULIANA (Furious, Defiant): No! That watch was not in his coat!\n[00:05.40] CONSTABLE (Blunt, Unyielding): I found it there myself.\n[00:07.70] JULIANA (Passionate, Accusatory): Then someone put it there!\n[00:09.70] GERALD (Smug, Condescending): The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\n[00:17.00] ALEXANDER (Low, Steady, Dangerous): I have never touched your property.\n[00:19.10] GERALD (Mocking, Malicious): Then perhaps your wife should explain why it was found in your coat.\n[00:22.20] JULIANA (Enraged, Shouting): You planted it!\n[00:22.20] ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.\n[00:23.50] CLARISSA (Purring, Taunting): Oh, dear sister...\n[00:25.40] CLARISSA (Continuing taunt): ...still defending your broken scrap of a man?\n[00:27.80] JULIANA (Steely, Resolute): Name your price, Clarissa. I know you.\n[00:30.80] CLARISSA (Smooth, Derisive): You always were clever, Juliana. Always searching for some way to escape.\n[00:35.50] CLARISSA (Scheming): Perhaps I can give you one.\n[00:37.60] JULIANA (Guarded, Cold): What do you want?"
+  },
+  {
+    "rank": 24,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 45,
+        "start": "00:51.80",
+        "end": "01:30.80",
+        "start_s": 51.8,
+        "end_s": 90.8
+      }
+    ],
+    "duration_s": 39.0,
+    "hook": "ALEXANDER: \"You poisoned my mother. You tortured my wife.\"",
+    "cliffhanger": "HIGH PRIEST: \"No one will bow yet!\"",
+    "why": "Opens on an immediate confrontation.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.45,
+      "standalone": 0.75,
+      "intensity": 0.262,
+      "duration": 1.0,
+      "rules": 0.6867,
+      "post_priority": 0.5064
+    },
+    "flags": [
+      "crosses a scene change",
+      "spoiler risk: from second half of the show"
+    ],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:02.20] ALEXANDER (Furious, Cold): You poisoned my mother. You tortured my wife.\n[00:06.40] CATHERINE (Gasping, Lying): I didn't know!\n[00:08.20] ALEXANDER (Thunderous, Biting): You knew exactly what you were doing!\n[00:10.80] ALEXANDER (Booming, Condemning): You hurt the two women who mattered most to me: my mother, and my wife.\n[00:17.00] CATHERINE (Trembling, Stunned): Wife?!\n[00:19.40] ACTION: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.\n[00:19.70] ALEXANDER (Authoritative, Resounding): Before the Crown and before God...\n[00:22.80] ACTION: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.\n[00:23.00] ALEXANDER (Proclaiming, Powerful): Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\n[00:29.70] RUPERT (Gasping, Shellshocked): Juliana?!\n[00:34.70] SFX: Loud, echoing thud of cathedral doors swinging open violently.\n[00:35.70] ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\n[00:36.60] HIGH PRIEST (Booming, Stern): No one will bow yet!"
+  },
+  {
+    "rank": 25,
+    "type": "single",
+    "segments": [
+      {
+        "episode": 24,
+        "start": "01:06.20",
+        "end": "01:32.00",
+        "start_s": 66.2,
+        "end_s": 92.0
+      }
+    ],
+    "duration_s": 25.8,
+    "hook": "NOBLEWOMAN: \"Do you want the same punishment?\"",
+    "cliffhanger": "LADY JULIANA: \"I will return. You cannot stop the healer.\"",
+    "why": "Opens on an immediate confrontation; high-conflict throughout.",
+    "scores": {
+      "hook": 1.0,
+      "cliffhanger": 0.35,
+      "standalone": 0.7,
+      "intensity": 0.638,
+      "duration": 0.725,
+      "rules": 0.6838,
+      "post_priority": 0.612
+    },
+    "flags": [],
+    "llm": null,
+    "quality_issues": [],
+    "transcript": "[00:00.00] PRUDENCE (Desperate, Pleading): My lady—\n[00:01.30] ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.\n[00:01.80] NOBLEWOMAN (Furious, Threatening): Do you want the same punishment?\n[00:04.40] PRUDENCE (Terrified, Murmuring): No, my lady.\n[00:06.30] ACTION: Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.\n[00:06.80] SFX: Rhythmic, harsh rasping sound of bristles scraping against stone.\n[00:08.80] NOBLEWOMAN (Smug, Gleeful): That is where clever little servants belong.\n[00:12.40] LADY JULIANA (Cold, Resolute): Let her think I am only a maid.\n[00:15.00] ACTION: Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.\n[00:15.30] LADY JULIANA (Determined, Defiant): Let her believe I am ignorant.\n[00:19.00] ACTION: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.\n[00:19.40] LADY JULIANA (Steely, Unstoppable): I will return. You cannot stop the healer."
+  }
+]
